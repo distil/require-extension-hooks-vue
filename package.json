@@ -48,7 +48,7 @@
     "eslint": "^5.0.0",
     "pug": "^2.0.3",
     "require-extension-hooks": "^0.3.3",
-    "require-extension-hooks-babel": "^0.1.0",
+    "require-extension-hooks-babel": "github:distil/require-extension-hooks-babel",
     "sinon": "^6.0.0",
     "vue": "^2.5.17"
   }
