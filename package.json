@@ -49,7 +49,7 @@
     "pug": "^2.0.3",
     "require-extension-hooks": "github:distil/require-extension-hooks",
     "require-extension-hooks-babel": "github:distil/require-extension-hooks-babel",
-    "sinon": "^6.0.0",
+    "sinon": "^7.3.2",
     "vue": "^2.5.17"
   }
 }
