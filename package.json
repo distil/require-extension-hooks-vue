@@ -43,7 +43,7 @@
     "vue-template-es2015-compiler": "^1.6.0"
   },
   "devDependencies": {
-    "browser-env": "^3.2.5",
+    "browser-env": "^3.2.6",
     "ava": "^0.25.0",
     "eslint": "^5.0.0",
     "pug": "^2.0.3",
